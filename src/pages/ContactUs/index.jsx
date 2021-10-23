@@ -14,7 +14,7 @@ export const Contact = () => {
             type='button'
             onClick={() => { history.push('/Users') }}
           >
-            Back
+            submit
           </button>
         )}/>
         </div>
